@@ -1,7 +1,7 @@
 # spark-context-with
-Python guard/wrapper for SparkContext from pyspark.
-Allows you to use python `with` operator with SparkContext
-Useful for throwing exceptions, prematurely exiting functions, etc.
+Python guard/wrapper for SparkContext from pyspark.  
+Allows you to use python `with` operator with SparkContext.  
+Useful for throwing exceptions, prematurely exiting functions, etc.  
 
 ## Example
 
